@@ -1,2 +1,3 @@
-# ipc1.0-draft-main
-ipc draft
+# ipc1.0
+
+Insurance policy control app
